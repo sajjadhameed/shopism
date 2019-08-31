@@ -1,0 +1,2 @@
+# shopism
+web site content
